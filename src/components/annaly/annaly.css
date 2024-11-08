@@ -1,0 +1,51 @@
+.annaly{
+    margin: 5rem auto;
+    width: 1200px;
+    color: #fff;
+    position: relative;
+}
+.annaly img{
+    position: absolute;
+    top: 70%;
+    left: 20%;
+    transform: translate(-50%,-50%);
+    z-index: -99;
+    width: 600px;
+    opacity: 0.4;
+    rotate: -40deg;
+}
+
+.annaly .mySvg{
+    position: absolute;
+    top: -5rem;
+    right: -11rem;
+}
+.annaly h1{
+    font-size: 3rem;
+    text-align: center;
+    margin: 5rem 0;
+    color: #FF6100;
+}
+.content .paras{
+    margin: 1rem 0;
+    font-size: 1.2rem;
+    font-weight: 800;
+}
+.paras p{
+    margin: 1rem 0;
+}
+
+/* #D59141 */
+.headings h2{
+    margin: 0.3rem 0;
+    color: #D59141;
+    font-weight: 700;
+}
+.headings p{
+    font-size: 1.4rem;
+}
+.headings p span{
+    color: #D59141;
+    font-size: 1.3rem;
+    font-weight: 700;
+}
